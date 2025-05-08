@@ -1,0 +1,22 @@
+# Core dependencies
+numpy==1.24.3
+torch==2.1.0
+torchaudio==2.1.0
+
+# Audio processing
+demucs==4.0.0
+librosa==0.10.1
+pydub==0.25.1
+soundfile==0.12.1
+
+# Video and audio extraction
+moviepy==1.0.3
+pytube==15.0.0
+
+# Speech recognition
+SpeechRecognition==3.10.0
+
+# Optional dependencies
+# Uncomment if needed:
+# ffmpeg-python==0.2.0  # For additional audio processing capabilities
+# tqdm==4.66.1         # For progress bars 

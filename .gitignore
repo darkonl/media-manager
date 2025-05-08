@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Audio and video files
+*.mp3
+*.wav
+*.mp4
+
+# Environment variables
+.env
+
+# Logs
+*.log 

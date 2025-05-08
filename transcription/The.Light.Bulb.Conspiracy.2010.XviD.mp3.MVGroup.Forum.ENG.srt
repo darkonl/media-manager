@@ -1,0 +1,408 @@
+1
+00:01:08,222 --> 00:01:14,053
+A technician can make a diagnosis
+but it costs 15 euros plus VAT.
+
+2
+00:01:14,054 --> 00:01:17,650
+It has become difficult
+to find parts for this.
+
+3
+00:01:17,651 --> 00:01:20,225
+It's not worth repairing.
+
+4
+00:01:20,226 --> 00:01:22,900
+Repair will cost 110-120 euros.
+
+5
+00:01:22,905 --> 00:01:25,550
+Printers cost as low as 39 euros.
+
+6
+00:01:25,555 --> 00:01:28,400
+I would advise you buy a new printer.
+
+7
+00:01:28,405 --> 00:01:31,158
+It's best to buy a new one.
+
+8
+00:01:56,700 --> 00:02:00,500
+We live in a society dominated
+by a growth economy
+
+9
+00:02:00,600 --> 00:02:07,500
+whose logic is not creating because we
+need things, but just for the sake of it.
+
+10
+00:02:41,000 --> 00:02:46,916
+Man decided to shorten a
+products lifespan to 1000 hours.
+
+11
+00:06:05,835 --> 00:06:08,950
+Christmas Eve 1924 was a special day.
+
+12
+00:06:09,250 --> 00:06:15,924
+In a backroom in Geneve, suit wearing
+men met to create a secret plan.
+
+13
+00:06:15,924 --> 00:06:21,500
+They established the
+first worldwide cartel.
+
+14
+00:06:21,500 --> 00:06:25,766
+Their goal was to control
+the production of lightbulbs
+
+15
+00:06:25,866 --> 00:06:30,385
+and to divide the world
+market between them.
+
+16
+00:06:30,485 --> 00:06:34,256
+The cartel was called Phoebus.
+
+17
+00:06:44,500 --> 00:06:49,227
+They would change the patents,
+control the production
+
+18
+00:06:49,227 --> 00:06:52,327
+and above all control consumption.
+
+19
+00:06:52,427 --> 00:06:59,300
+It is better for the companies that
+bulbs must be changed more often.
+
+20
+00:06:59,400 --> 00:07:04,300
+Long lasting lights are an
+economic disadvantage.
+
+21
+00:07:46,366 --> 00:07:55,266
+Phoebus decided to limit the lifespan
+of a light bulb to 1000 hours.
+
+22
+00:07:58,927 --> 00:08:04,705
+In 1925 they appointed a group
+called "The 1000 Hour Life Committee",
+
+23
+00:08:04,705 --> 00:08:12,201
+that would technically reduce the time
+an incandescent lamp could burn.
+
+24
+00:08:32,495 --> 00:08:37,195
+Here we have a cartel document:
+
+25
+00:09:17,927 --> 00:09:25,900
+One measure was to set up
+a stand with many shelves
+
+26
+00:09:25,950 --> 00:09:31,036
+to which different types of
+lightbulbs were connected to
+
+27
+00:09:31,036 --> 00:09:38,584
+so that the company Osram was able
+to register how long they lasted.
+
+28
+00:09:55,535 --> 00:10:00,835
+Here we have a list of fines from 1929.
+
+29
+00:10:00,935 --> 00:10:07,913
+It shows how many Swiss
+Francs companies had to pay
+
+30
+00:10:08,013 --> 00:10:14,816
+for example, here when the life
+of a bulb was about 1500 hours.
+
+31
+00:11:30,000 --> 00:11:36,677
+Officially, Phoebus never existed, although
+it's tracks have always been there.
+
+32
+00:11:36,677 --> 00:11:40,914
+The strategy has been to
+constantly change names.
+
+33
+00:11:41,014 --> 00:11:47,112
+They used the name
+"The International Energy Cartel" and others.
+
+34
+00:11:47,112 --> 00:11:52,021
+The point is that this idea
+as an institution still exists.
+
+35
+00:22:57,300 --> 00:23:03,036
+Growth Society's logic is not
+only to grow to meet demand
+
+36
+00:23:03,036 --> 00:23:08,966
+but to grow for the sake of growth;
+unbounded growth in production
+
+37
+00:23:08,966 --> 00:23:14,736
+that is justified through the
+boundless growth in consumption.
+
+38
+00:23:23,950 --> 00:23:31,980
+The three crucial factors are advertising,
+planned obsolescence and credit.
+
+39
+00:24:00,000 --> 00:24:05,103
+Anyone who thinks that infinite
+growth is consistent with a finite planet
+
+40
+00:24:05,103 --> 00:24:08,890
+is either crazy, or an economist.
+
+41
+00:24:08,890 --> 00:24:12,989
+The problem is that now
+we've all become economists.
+
+42
+00:24:31,800 --> 00:24:38,407
+With this Growth Society we
+are sitting in a racing car
+
+43
+00:24:38,407 --> 00:24:44,894
+that no longer has a driver,
+is running at full speed
+
+44
+00:24:44,894 --> 00:24:52,206
+and will end up crashing
+into a wall or driving off a cliff.
+
+45
+00:25:42,327 --> 00:25:49,727
+I have found the chip called an EEPROM,
+which stores a preset number of prints.
+
+46
+00:25:49,727 --> 00:25:56,524
+When the user reaches this preset
+number of prints, the printer locks up.
+
+47
+00:31:23,200 --> 00:31:28,645
+I bought this DDR-fridge in 1985.
+
+48
+00:31:28,645 --> 00:31:32,942
+It is 24 years old.
+
+49
+00:31:32,942 --> 00:31:39,829
+The light bulb is the same age,
+I have never changed it. It is 25 years old.
+
+50
+00:31:55,500 --> 00:32:03,517
+In 1981 when the East Germans
+presented the bulb at a fair in Hanover,
+
+51
+00:32:03,517 --> 00:32:07,498
+our colleagues in the West said,
+"You will make yourselves unemployed."
+
+52
+00:32:07,498 --> 00:32:14,343
+East Germans engineers
+replied, "On the contrary."
+
+53
+00:32:14,343 --> 00:32:20,294
+"By saving resources and not wasting
+tungsten we will keep our jobs.""
+
+54
+00:45:36,660 --> 00:45:42,093
+The transport sector would
+pay the actual costs of shipping,
+
+55
+00:45:42,093 --> 00:45:47,592
+not to mention the fact
+that oil is unrenewable,
+
+56
+00:45:47,592 --> 00:45:52,662
+if the current price was
+multiplied by 20 or 30.
+
+57
+00:46:25,500 --> 00:46:32,871
+'Environment' is generally linked to
+saving, reduction, zero waste, etc.
+
+58
+00:46:34,069 --> 00:46:40,269
+But nature doesn't save anything, for
+example when a cherry tree blossoms.
+
+59
+00:46:56,564 --> 00:47:01,864
+Nature produces no waste,
+only nutrients.
+
+60
+00:47:17,268 --> 00:47:23,368
+Imagine a sofa or a chair
+with a fabric like this;
+
+61
+00:47:23,368 --> 00:47:30,220
+it's decorations are so toxic that it
+must be handled as hazardous waste.
+
+62
+00:47:51,567 --> 00:47:59,467
+Now we select edible materials. You should
+be able to have this with your muesli.
+
+63
+00:47:59,467 --> 00:48:04,111
+In a waste-based society,
+products will cause problems.
+
+64
+00:48:04,311 --> 00:48:10,718
+But if manufactureres use nutrients, the
+products can become something new.
+
+65
+00:48:22,401 --> 00:48:27,001
+A true revolution requires
+a cultural change,
+
+66
+00:48:27,001 --> 00:48:30,954
+a paradigm shift and
+a change in mentality.
+
+67
+00:48:42,234 --> 00:48:49,634
+Anti-Growth is a provocative
+slogan that will break
+
+68
+00:48:49,634 --> 00:48:56,754
+the way of thought that considers infine
+growth to be possible and sustainable.
+
+69
+00:48:56,754 --> 00:49:01,186
+It marks the necessity
+to change our logic.
+
+70
+00:49:03,520 --> 00:49:12,420
+The main message of anti-growth is
+to reduce our environmental footprint,
+
+71
+00:49:12,420 --> 00:49:17,157
+our waste, overproduction
+and overconsumption.
+
+72
+00:49:17,157 --> 00:49:22,844
+By reducing production and
+consumption we get more free time
+
+73
+00:49:22,844 --> 00:49:30,638
+to develop other forms of
+wealth that can't be exhausted,
+
+74
+00:49:30,638 --> 00:49:34,604
+for example friendship
+and learning.
+
+75
+00:49:58,680 --> 00:50:03,692
+If happiness was dependent
+on our consumption level,
+
+76
+00:50:03,692 --> 00:50:06,982
+we should be 100% content.
+
+77
+00:50:06,982 --> 00:50:11,893
+We consume 26 times more
+than in Marx's time.
+
+78
+00:50:11,893 --> 00:50:16,227
+But all studies show that people
+are not 20 times happier.
+
+79
+00:50:16,227 --> 00:50:19,366
+For happiness is always subjective.
+
+80
+00:50:33,369 --> 00:50:40,469
+To return to a society of
+sustainable development
+
+81
+00:50:40,469 --> 00:50:48,363
+is not to go back to the
+Stone Age, but to the 1960s.
+
+82
+00:50:48,363 --> 00:50:51,498
+It is far from the Stone Age.
+
+83
+00:50:53,083 --> 00:50:57,483
+Anti-Growth Society
+meets Ghandi's vision:
+
+84
+00:50:57,483 --> 00:51:02,895
+"The world is big enough to
+satisfy everyone's needs,"
+
+85
+00:51:02,895 --> 00:51:09,839
+"but will always be too small
+to satisfy individual greed."
